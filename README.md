@@ -28,7 +28,7 @@ Find the script here: [rsync-backup-script.sh](https://github.com/uhk-ditig/rsyn
 
 ### Set Key Variables
 
-* `backuppath`: The directory to back up (`/home/user`).
+* `backuppath`: The directory to back up (`$HOME`).
 * `mountpoint`: The backup destination (`/media/user/backup`).
 * `date`: Current date in `YYYY-MM-DD` format.
 * `time`: Current time in `HH:MM:SS` format.

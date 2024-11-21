@@ -26,7 +26,7 @@ function usage ()
 # Variables
 #
 # source directory to back up
-backuppath="/home/user"
+backuppath=$HOME
 
 # back up destination location
 # Arch
