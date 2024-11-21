@@ -4,7 +4,7 @@ For more information on the script, see the article on the [Rsync Backup Script]
 
 ## Script File
 
-Find the script in `rsync-backup-script.sh`.
+Find the script here: [rsync-backup-script.sh](https://github.com/uhk-ditig/rsync-backup-script/blob/main/rsync-backup-script.sh).
 
 
 ## Step-by-Step Explanation of the Script
