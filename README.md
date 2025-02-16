@@ -1,6 +1,6 @@
 # Rsync Backup Script
 
-For more information on the script, see the article on the [Rsync Backup Script](https://www.ditig.com/publications/rsync-backup-script).
+For more information on the script, see the article on the [Rsync Backup Script](https://www.ditig.com/rsync-backup-script).
 
 ## Script File
 
